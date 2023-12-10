@@ -3,9 +3,10 @@
 ## 💁 Description
 
 This website is only for our book lovers who want to sell and buy books (books📚) cheaper and faster.\
-Here it is the video description of our project. Tap to watch 👇
+Here it is the video description of our project.
 
-![Bookworms](https://github.com/Oolgoo/Book-worms-/assets/93963116/81ad54c2-9ed2-4338-8d70-837ba0cf4dc1)
+![Bookworms](https://github.com/Oolgoo/Book__Worms/assets/93963116/1ecef0bb-3e9f-43a7-9e8e-b0d088e65ea7)
+
 
 ## 🏷️ Contents
 
