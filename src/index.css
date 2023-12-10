@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a{
+color: white  !important;
+opacity: 8;
+
+}  git init
+.ant-btn-primary {
+
+    border: none !important;
+    background: black !important;
+   
+    border-radius: 5px !important;
+}
+.ant-input {
+    
+    border-radius: 5px !important;
+}
+
+.ant-input-affix-wrapper {
+   
+    border-radius: 5px !important;
+    
+}
+.ant-select-selector{
+    border-radius: 20px !important;
+} 
