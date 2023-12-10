@@ -48,7 +48,7 @@ The project is GNU licensed.\
 Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>\
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-## 👥 Creat
+## 👥 Creator
 
 🔹TEGSHBAYAR KHOSBAT [22170104]\
 
